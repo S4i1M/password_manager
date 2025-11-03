@@ -48,6 +48,4 @@ pip install cryptography
 
 This tool is for educational use. Do not use it to store sensitive data without proper security practices.
 
----
 
-Let me know if you’d like a logo, usage demo, or GitHub setup instructions too!
